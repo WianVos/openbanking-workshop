@@ -45,7 +45,7 @@ schema: hxuazyrm
 We will start by exposing a REST endpoint that will then get mapped to the backend datasource.
 
 . Use the API Provider connector with the following OpenAPI file:
-https://raw.githubusercontent.com/lucamaf/open-banking-roadshow/master/open-dataapis-nokey.json
+https://raw.githubusercontent.com/lucamaf/open-banking-roadshow/master/open-data-apis-nokey.json
 . The definition is the same one seen on the Open Banking solution portal for Open Data APIs.
 . There is a validation happening on the API definition, but no error was identified so we can proceed with the configuration of the connector.
 . To show how easy it is to correct definitions -> review/edit
